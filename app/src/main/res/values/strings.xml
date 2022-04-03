@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Reels</string>
+    <string name="title_heart">Likes</string>
+    <string name="title_user">User</string>
+  </resources>
